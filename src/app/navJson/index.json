@@ -1,0 +1,34 @@
+[
+    {
+        "label":"Home",
+        "link":"/",
+        "dropDown":false
+    },
+    {
+        "label":"Courses",
+        "link":"/",
+        "dropDown":true,
+        "dropDownValue":[
+            "Next.js",
+            "React.js",
+            "Javascript",
+            "Html",
+            "Css"
+        ]
+    },
+    {
+        "label":"Blogs",
+        "link":"/",
+        "dropDown":false
+    },
+    {
+        "label":"Pc Requirements",
+        "link":"/",
+        "dropDown":false
+    },
+    {
+        "label":"Contact",
+        "link":"/",
+        "dropDown":false
+    }
+]
